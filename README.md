@@ -17,3 +17,15 @@ Links referenced in the Escape 2024 talk
 - https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire//
 - https://youtu.be/QrrH2lcl9ew?si=eLho2NjTS6OfHAOo
 - https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf
+
+## Useful links for Rust
+
+- https://www.rust-lang.org/learn
+- https://doc.rust-lang.org/book/
+- https://github.com/rust-lang/rustlings/
+- https://doc.rust-lang.org/rust-by-example/
+- https://crates.io/
+- https://lib.rs/
+- https://blessed.rs/crates
+- https://query.rs/
+- https://www.reddit.com/r/rust/
