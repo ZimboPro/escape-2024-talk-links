@@ -1,22 +1,35 @@
 # talk-links
 Links referenced in the Escape 2024 talk
 
-- https://www.rust-lang.org/
+## Rust
+
+[Website](https://www.rust-lang.org/)
+
+## Rust in the Wild
+
+
 - https://www.rust-lang.org/production
-- https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
-- https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html
-- https://www.phoronix.com/news/Linux-6.8-Rust-PHY-Driver
-- https://discord.com/blog/why-discord-is-switching-from-go-to-rust
-- https://www.figma.com/blog/rust-in-production-at-figma/
-- https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf
-- https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/
-- https://firecracker-microvm.github.io/
-- https://github.com/astral-sh/ruff
-- https://github.com/BurntSushi/ripgrep
-- https://www.theregister.com/2023/04/27/microsoft_windows_rust
-- https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire//
-- https://youtu.be/QrrH2lcl9ew?si=eLho2NjTS6OfHAOo
-- https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf
+- [Firefox CSS Engine](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
+- [Memory Safe languages in Android 13](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html)
+- [Linux driver in Rust](https://www.phoronix.com/news/Linux-6.8-Rust-PHY-Driver)
+- [Why Discord is switching from Go to Rust](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)
+- [Rust in production at Figma](https://www.figma.com/blog/rust-in-production-at-figma/)
+- [Rust and NPM](https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf)
+- [How we built Pingora, the proxy that connects Cloudflare to the internet](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/)
+- [Firecracker MicroVM](https://firecracker-microvm.github.io/)
+- [Ruff](https://github.com/astral-sh/ruff)
+- [Ripgrep](https://github.com/BurntSushi/ripgrep)
+- [Microsoft Windows and Rust](https://www.theregister.com/2023/04/27/microsoft_windows_rust)
+- [Epic story Dropboxs exodus Amazon Cloud Empire](https://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire//)
+- [Lars Bergstrom - Beyond Safety and Speed: How Rust Fuels Team Productivity](https://youtu.be/QrrH2lcl9ew?si=eLho2NjTS6OfHAOo)
+- [Energy Efficiency in programming languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
+
+## Blogs
+
+- [Making Python 100x faster with less than 100 lines of Rust](https://ohadravid.github.io/posts/2023-03-rusty-python/)
+- [I saved 87% on compute costs by switching languages](https://worldwithouteng.com/articles/i-saved-87-percent-on-compute-costs-by-switching-languages/)
+- [Offerzen 2024 - State of the Dev Nation # Languages Devs want to use](https://bit.ly/49ib9nq)
+- [AWS re:Invent 2023 - “Rustifying” serverless: Boost AWS Lambda performance with Rust](https://youtu.be/Mdh_2PXe9i8?si=sF783Cu4eWO26z9s)
 
 ## Useful links for Rust
 
