@@ -1,4 +1,5 @@
 # Escape 2024 Talk Links
+
 Links referenced in the Escape 2024 talk
 
 ## Rust
@@ -55,9 +56,15 @@ Links referenced in the Escape 2024 talk
 
 - [Rust SDK for AWS](https://aws.amazon.com/sdk-for-rust/)
 
+### C/C++
+
+- [Corrosion](https://github.com/corrosion-rs/corrosion)
+
 ### Other
 
 - [Tauri](https://tauri.app/)
+- [FFI Resources](https://nrc.github.io/big-book-ffi/resources.html)
+- [FFI](https://doc.rust-lang.org/nomicon/ffi.html)
 
 ## Useful links for Rust
 
