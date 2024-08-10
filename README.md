@@ -60,6 +60,12 @@ Links referenced in the Escape 2024 talk
 
 - [Corrosion](https://github.com/corrosion-rs/corrosion)
 
+### AI
+
+ - [rust-bert](https://github.com/guillaume-be/rust-bert)
+ - [candle](https://github.com/huggingface/candle)
+ - [burn](https://burn.dev/)
+
 ### Other
 
 - [Tauri](https://tauri.app/)
