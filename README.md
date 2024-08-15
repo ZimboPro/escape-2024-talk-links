@@ -83,3 +83,4 @@ Links referenced in the Escape 2024 talk
 - https://blessed.rs/crates
 - https://query.rs/
 - https://www.reddit.com/r/rust/
+- https://this-week-in-rust.org/
