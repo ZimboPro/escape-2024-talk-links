@@ -52,9 +52,11 @@ Links referenced in the Escape 2024 talk
 - [rinf](https://github.com/cunarist/rinf)
 - [Flutter Rust Bridge](https://cjycode.com/flutter_rust_bridge/)
 
-### AWS
+### Cloud
 
 - [Rust SDK for AWS](https://aws.amazon.com/sdk-for-rust/)
+- [Unoffical Rust SDK for Azure](https://github.com/Azure/azure-sdk-for-rust)
+- [Unoffical Rust SDK for GCP](https://github.com/yoshidan/google-cloud-rust)
 
 ### C/C++
 
