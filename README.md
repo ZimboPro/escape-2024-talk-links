@@ -68,6 +68,11 @@ Links referenced in the Escape 2024 talk
  - [candle](https://github.com/huggingface/candle)
  - [burn](https://burn.dev/)
 
+### Websites
+
+ - [Yew](https://yew.rs/)
+ - [Leptos](https://leptos.dev/)
+
 ### Other
 
 - [Tauri](https://tauri.app/)
