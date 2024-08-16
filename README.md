@@ -61,6 +61,7 @@ Links referenced in the Escape 2024 talk
 ### C/C++
 
 - [Corrosion](https://github.com/corrosion-rs/corrosion)
+- [cbindgen](https://github.com/mozilla/cbindgen)
 
 ### AI
 
