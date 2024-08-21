@@ -27,6 +27,7 @@ Links referenced in the Escape 2024 talk
 - [C MD5 example](https://stackoverflow.com/questions/1220046/md5-hash-from-file-in-c/1220177#1220177)
 - [Lars Bergstrom - Beyond Safety and Speed: How Rust Fuels Team Productivity](https://youtu.be/QrrH2lcl9ew?si=eLho2NjTS6OfHAOo)
 - [Energy Efficiency in programming languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
+- [Crates Growth](https://lib.rs/stats)
 
 ## Blogs
 
