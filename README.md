@@ -28,6 +28,7 @@ Links referenced in the Escape 2024 talk
 - [Lars Bergstrom - Beyond Safety and Speed: How Rust Fuels Team Productivity](https://youtu.be/QrrH2lcl9ew?si=eLho2NjTS6OfHAOo)
 - [Energy Efficiency in programming languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
 - [Crates Growth](https://lib.rs/stats)
+- [Lambda Cold Starts Benchmark](https://maxday.github.io/lambda-perf/)
 
 ## Blogs
 
